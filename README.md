@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://babigdkblogs.vercel.app/" target="_blank">soumyajitblogs.vercel.app</a>
+  <a href="https://babigdkblogs.vercel.app/" target="_blank">babigdkblogs.vercel.app</a>
 </h2>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal blogpage <a href="http://Babigdk.githb.io" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/>
+My personal blogpage <a href="http://Babigdk.githb.io" target="_blank">Babigdk.githb.io</a> which features some of my developer blog posts and experiences.<br/>
 
 This project was built using these technologies.
 
