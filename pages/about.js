@@ -52,7 +52,7 @@ function about({ topics }) {
               className="twitter-follow-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/babi_abdulrazaq"
             >
               Follow Me
             </a>

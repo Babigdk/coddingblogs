@@ -1,9 +1,9 @@
-## Bits-0f-C0de
+## Codding blogs
 
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://coddingblogs.vercel.app/" target="_blank">coddingblogs.vercel.app</a>
+  <a href="https://babigdkblogs.vercel.app/" target="_blank">soumyajitblogs.vercel.app</a>
 </h2>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal blogpage <a href="http://babigdk.github.io/" target="_blank">babigdk.github.io</a> which features some of my developer blog posts and experiences.<br/>
+My personal blogpage <a href="http://Babigdk.githb.io" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/>
 
 This project was built using these technologies.
 
@@ -75,4 +75,4 @@ To write your own blogs create a markdown file in `_content` folder with the spe
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/Babigdk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<!-- <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a> -->

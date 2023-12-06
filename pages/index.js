@@ -20,7 +20,7 @@ export default function Home({ blogs, topics }) {
   return (
     <>
       <Head>
-        <title>Bits-0f-C0de 🚀</title>
+        <title>Codding Blogs 🚀</title>
         <meta name="title" content="Bits-0f-C0de 🚀" />
         <meta
           name="description"
@@ -36,7 +36,7 @@ export default function Home({ blogs, topics }) {
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
+          content="https://raw.githubusercontent.com/Babigdk/coddingblog/main/Extra/sc.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
@@ -48,7 +48,7 @@ export default function Home({ blogs, topics }) {
         />
         <meta
           property="twitter:image"
-          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
+          content="https://raw.githubusercontent.com/Babigdk/coddingblogs/main/Extra/sc.png"
         />
       </Head>
 
