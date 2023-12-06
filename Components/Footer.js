@@ -16,7 +16,7 @@ function Footer() {
               className="text-gray-50 ml-1"
               target="_blank"
             >
-              @Soumyajit
+              @babi_abdulrazaq
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
